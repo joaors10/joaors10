@@ -37,8 +37,14 @@
 
 ---
 
-## 📊 GitHub Activity
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaors10&bg_color=0F172A&color=7C3AED&line=22D3EE&point=22D3EE&area=true&hide_border=true)](https://github.com/ashutosh00710)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joaors10/joaors10/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
+
 
 ---
 
