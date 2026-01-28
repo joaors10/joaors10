@@ -15,7 +15,6 @@
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=22D3EE)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=22D3EE)
 ![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=22D3EE)
 ![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=22D3EE)
 ![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=22D3EE)
@@ -30,8 +29,11 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visual-studio-code&logoColor=7C3AED)
 ![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=7C3AED)
 ![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=7C3AED)
+![Postman](https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=7C3AED)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=7C3AED)
 
 </div>
+
 
 ---
 
