@@ -37,11 +37,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joaors10/joaors10/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 
 
